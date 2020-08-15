@@ -1,0 +1,1 @@
+## This project is testing NAPI in node. The build is done with node-gyp module
